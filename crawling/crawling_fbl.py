@@ -221,4 +221,6 @@ def main(event=None, callback=None):
     logger.info('finished to_gcs match')  
         
     return(1)
-main()
+
+#ローカルデバッグ用
+#main()
